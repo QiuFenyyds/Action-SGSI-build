@@ -6,11 +6,11 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'https://9g0le5nah632oc3mb8qurj6p6kvau5s3gd3v59jghn1p9i6ug3mfu73i.qc.dolfincdnx.cn:10443/xdispatchdf9de9872419f17c/bigota.d.miui.com/V12.5.1.0.QDGCNXM/miui_MIMIX2S_V12.5.1.0.QDGCNXM_8326b14c82_10.0.zip?bsreqid=a0bfd73612623583530507191b5ac49c'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip'
+        default: 'miui_MIMIX2S_V12.5.1.0.QDGCNXM_8326b14c82_10.0.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
