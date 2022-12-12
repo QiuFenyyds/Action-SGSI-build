@@ -6,15 +6,15 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://9g0le5nah632oc3mb8qurj6p6kvau5s3gd3v59jghn1p9i6ug3mfu73i.qc.dolfincdnx.cn:10443/xdispatchdf9de9872419f17c/bigota.d.miui.com/V12.5.1.0.QDGCNXM/miui_MIMIX2S_V12.5.1.0.QDGCNXM_8326b14c82_10.0.zip?bsreqid=a0bfd73612623583530507191b5ac49c'
+        default: 'https://hz6zmhdy.v1d.szbdyd.com:9305/download.meizu.com/Firmware/Flyme/16th/9.21.8.24/cn_beta/20210824002312/5f7bbbfc/update.zip?xyip=222.78.93.114&xyct=933&xy_rid=zYS02LeL4OGt9_&xy_oid=43158'
       ZIP_NAME:
         description: 'ZIP_NAME'
         required: true
-        default: 'miui_MIMIX2S_V12.5.1.0.QDGCNXM_8326b14c82_10.0.zip'
+        default: 'update.zip'
       OS_TYPE:
         description: 'OS_TYPE'
         required: true
-        default: 'miui'
+        default: 'flyme'
       SGSI_TYPE:
         description: 'SGSI_TYPE(AB, A, or BOTH)'
         required: true
